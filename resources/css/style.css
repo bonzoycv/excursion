@@ -1,0 +1,46 @@
+/* html {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+body {
+    background-color: black;
+    text-align: center;
+    
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    text-align: center;
+    color: grey;
+    font-size: 21px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+video {
+    
+}
+
+footer p{
+    text-align: right;
+    color: grey;
+}
